@@ -1,0 +1,64 @@
+{
+  "productos": [
+    {
+      "nombre": "Deadpool",
+      "precio": 30,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXG0rplYAYaUkk15BgmTax7y6XFM39vnPxw&s",
+      "id": "27"
+    },
+    {
+      "nombre": "Groot",
+      "precio": 30,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZS0Nl1BwmmGpxcbgVvUrk668U7yqoMGk7hg&s",
+      "id": "29"
+    },
+    {
+      "nombre": "Venom",
+      "precio": 25,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvyekA_AyiKP92H5QYJsv4sggCTN2PMkzu3Q&s",
+      "id": "30"
+    },
+    {
+      "nombre": "Star Lord",
+      "precio": 25,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7p6sW4wX2U1NzvgFULNiaVsxfczs0hpNfw&s",
+      "id": "31"
+    },
+    {
+      "nombre": "Baby Yoda",
+      "precio": 32,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLY9iTsTL647ANvm2hgD67d0gjPtBFyhbV-Q&s",
+      "id": "32"
+    },
+    {
+      "nombre": "Spiderman",
+      "precio": 28,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJ9sK51cr81O0hSC3UOTmrUkZzssY3AS-fQ&s",
+      "id": "33"
+    },
+    {
+      "nombre": "Rocket",
+      "precio": 28,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1iIkDAULy_osG1-PWNo04FYAsi7L0IOG9sg&s",
+      "id": "34"
+    },
+    {
+      "nombre": "Stitch",
+      "precio": 30,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA87LgI70IUIG52qwktvwPM0TSs-gqMeZ1IA&s",
+      "id": "35"
+    },
+    {
+      "nombre": "E.T",
+      "precio": 20,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpL-CJ73ODKJbuCnCI0MCnQ3Hj-HCchOqQZg&s",
+      "id": "36"
+    },
+    {
+      "nombre": "Groot 2",
+      "precio": 35,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fnX3wc_tRG8Xkezqi2VDHYQSlUtzFuW-rg&s",
+      "id": "37"
+    }
+  ]
+}
